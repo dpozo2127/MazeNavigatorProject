@@ -1,6 +1,7 @@
 <h1>Maze Navigator - Python</h1>
-
+<!--
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ --!>
 
 <h2>Description</h2>
  Developed a maze navigator in Python within VS Code to find the optimal path using a Breadth-First Search (BFS) algorithm in a 30x30 maze. Utilized a Queue (FIFO) data structure to efficiently process nodes, achieving a process time of 17.18 nodes/sec and an average execution time of 18.51 seconds.   Visualized real-time maze navigation using the curses library, simulating obstacle detection and grid navigation, with the ability to dynamically change the maze configuration. Implemented memory usage tracking, with a maximum memory consumption of 80 KB which enhances the maze navigator’s performance by allowing faster loading times and smoother navigation.
